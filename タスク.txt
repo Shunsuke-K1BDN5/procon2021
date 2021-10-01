@@ -1,0 +1,60 @@
+1. PyTorch基礎(Learning PyTorch)
+[1] PyTorch60分講座: PyTorchとは？（DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ：WHAT IS PYTORCH?） 日本語解説へ
+
+[2] PyTorch60分講座: Autograd（自動微分）（AUTOGRAD: AUTOMATIC DIFFERENTIATION） 日本語解説へ
+
+[3] PyTorch60分講座: ニューラルネットワーク入門（NEURAL NETWORKS） 日本語解説へ
+
+[4] PyTorch60分講座: クラス分類モデルの訓練方法（TRAINING A CLASSIFIER） 日本語解説へ
+
+[5] 例題を用いた、PyTorchの各要素の解説（LEARNING PYTORCH WITH EXAMPLES） 日本語解説へ
+
+[6] torch.nnの解説（WHAT IS TORCH.NN REALLY?） 日本語解説へ
+
+[7] TensorBoardを用いたモデル、データと訓練の可視化（VISUALIZING MODELS, DATA, AND TRAINING WITH TENSORBOARD） 日本語解説へ
+
+2. 画像処理と動画(Image/Video)
+[1] 画像分類タスクに対する転移学習の方法（TRANSFER LEARNING FOR COMPUTER VISION TUTORIAL） 日本語解説へ
+
+[2] Torchvisionを利用した物体検出のファインチューニング手法（TORCHVISION OBJECT DETECTION FINETUNING TUTORIAL） 日本語解説へ
+
+[3] 敵対的サンプル（adversarial examples）の生成（ADVERSARIAL EXAMPLE GENERATION） 日本語解説へ
+
+[4] DCGANの実装チュートリアル（DCGAN TUTORIAL） 日本語解説へ
+
+3. 自然言語処理(Text)
+[1] TransformerとTorchTextを用いたsequence-to-sequenceモデルの学習（SEQUENCE-TO-SEQUENCE MODELING WITH NN.TRANSFORMER AND TORCHTEXT） 日本語解説へ
+
+[2] 文字単位RNNによる名前（苗字）の分類（NLP FROM SCRATCH: CLASSIFYING NAMES WITH A CHARACTER-LEVEL RNN） 日本語解説へ
+
+[3] 文字単位RNNによる名前（苗字）の生成（NLP FROM SCRATCH: GENERATING NAMES WITH A CHARACTER-LEVEL RNN） 日本語解説へ
+
+[4] sequence to sequenceとアテンションによる翻訳モデル（NLP FROM SCRATCH: TRANSLATION WITH A SEQUENCE TO SEQUENCE NETWORK AND ATTENTION） 日本語解説へ
+
+[5] TorchTextを使用したテキスト分類（TEXT CLASSIFICATION WITH TORCHTEXT） 日本語解説へ
+
+[6] TorchTextを使用した言語翻訳（LANGUAGE TRANSLATION WITH TORCHTEXT） 日本語解説へ
+
+4. 深層強化学習(Reinforcement Learning)
+[1] 強化学習（DQN）チュートリアル （REINFORCEMENT LEARNING (DQN) TUTORIAL） 日本語解説へ
+
+[2] 強化学習を用いたマリオの訓練 （TRAIN A MARIO-PLAYING RL AGENT） 日本語解説へ
+
+[3] 強化学習チートシート （RL CHEAT SHEET） 日本語解説へ
+
+Main：
+    プロコン用のモデル実装
+
+    モデルのテストと評価
+
+    改善点を探す
+
+    改善されたモデルを実装
+
+サーバーとの通信の実装
+
+テスト
+
+
+
+
